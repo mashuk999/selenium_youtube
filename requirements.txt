@@ -1,6 +1,6 @@
 beautifulsoup4==4.10.0
 kcu==0.0.73
-kstopit==0.0.10
+kstopit @ git+https://github.com/mashuk999/py_kstopit.git@b86f935bcd0d1e3cdf40d0d26c59bac9f9600745
 kyoutubescraper==0.0.2
 noraise==0.0.16
 selenium==4.0.0b4
